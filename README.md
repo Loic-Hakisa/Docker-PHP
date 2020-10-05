@@ -14,7 +14,7 @@ Simple Php7.4/Composer/phpunit env launched with docker
 * docker-compose run phpunit
 
 
-# Start PHP Fpm container
+# Start PHP-FPM container
 
 Files from local git folder /src are available in container /var/www/html/ folder.
 
