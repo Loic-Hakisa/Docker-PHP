@@ -4,9 +4,7 @@ Simple Php7.4/Composer/phpunit env launched with docker
 
 # Initialize
 
-* docker-compose run composer require --dev phpunit/phpunit
-* docker-compose run phpunit --generate-configuration
-
+* docker-compose run composer install
 
 # Launch units tests from "tests" folder:
 docker-compose run phpunit
