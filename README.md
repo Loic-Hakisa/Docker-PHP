@@ -4,6 +4,8 @@ Simple Php7.4/Composer/phpunit env launched with docker
 
 # Initialize
 
+* git clone git@github.com:Loic-Hakisa/Docker-PHP.git
+* cd Docker-PHP
 * docker-compose run composer install
 
 
